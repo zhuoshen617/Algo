@@ -4,7 +4,9 @@
 
 ### DP
 - 线性
-	- [杨老师的照相排列](https://www.acwing.com/problem/content/description/273/) | [解释]()
+	- [杨老师的照相排列](https://www.acwing.com/problem/content/description/273/) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/%E6%9D%A8%E8%80%81%E5%B8%88%E7%9A%84%E7%85%A7%E7%9B%B8%E6%8E%92%E5%88%97.md)
+- 背包
+    - [P1510 精卫填海](https://www.luogu.com.cn/problem/P1510) | 解释
 
 ### Math
 - 概率
