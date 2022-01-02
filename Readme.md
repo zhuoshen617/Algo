@@ -10,6 +10,8 @@
 - 背包
     - [P1510 精卫填海](https://www.luogu.com.cn/problem/P1510) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1510%20%E7%B2%BE%E5%8D%AB%E5%A1%AB%E6%B5%B7.md)
     - TODO [P1077 摆花](https://www.luogu.com.cn/problem/P1077) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1077%20%E6%91%86%E8%8A%B1.md)
+- 前缀和优化
+    - [P2513 逆序对数列](https://www.luogu.com.cn/problem/P2513) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2513%20%E9%80%86%E5%BA%8F%E5%AF%B9%E6%95%B0%E5%88%97.md)
 
 ### Math
 - 概率
