@@ -6,10 +6,10 @@
 - 线性
 	- [杨老师的照相排列](https://www.acwing.com/problem/content/description/273/) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/%E6%9D%A8%E8%80%81%E5%B8%88%E7%9A%84%E7%85%A7%E7%9B%B8%E6%8E%92%E5%88%97.md)
 	- [414B Mashmokh and ACM](https://codeforces.com/problemset/problem/414/B) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/414B%20Mashmokh%20and%20ACM.md)
-	- TODO [P2426 删数](https://www.luogu.com.cn/problem/P2426) | [解释]()
+	- TODO [P2426 删数](https://www.luogu.com.cn/problem/P2426) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2426%20%E5%88%A0%E6%95%B0.md)
 - 背包
     - [P1510 精卫填海](https://www.luogu.com.cn/problem/P1510) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1510%20%E7%B2%BE%E5%8D%AB%E5%A1%AB%E6%B5%B7.md)
-    - TODO [P1077 摆花](https://www.luogu.com.cn/problem/P1077) | [解释]()
+    - TODO [P1077 摆花](https://www.luogu.com.cn/problem/P1077) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1077%20%E6%91%86%E8%8A%B1.md)
 
 ### Math
 - 概率
