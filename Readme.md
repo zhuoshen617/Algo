@@ -13,6 +13,8 @@
     - TODO [P1077 摆花](https://www.luogu.com.cn/problem/P1077) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1077%20%E6%91%86%E8%8A%B1.md)
 - 矩阵型
 	- [CF2B The least round way](https://www.luogu.com.cn/problem/CF2B) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/CF2B%20The%20least%20round%20way.md)
+- 倒推
+ 	- [P1280 尼克的任务](https://www.luogu.com.cn/problem/P1280) | [解释]() 
 - 前缀和优化
     - [P2513 逆序对数列](https://www.luogu.com.cn/problem/P2513) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2513%20%E9%80%86%E5%BA%8F%E5%AF%B9%E6%95%B0%E5%88%97.md)
     - [P1107 雷涛的小猫](https://www.luogu.com.cn/problem/P1107) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1107%20%E9%9B%B7%E6%B6%9B%E7%9A%84%E5%B0%8F%E7%8C%AB.md)
