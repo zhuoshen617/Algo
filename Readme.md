@@ -8,13 +8,17 @@
 	- [414B Mashmokh and ACM](https://codeforces.com/problemset/problem/414/B) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/414B%20Mashmokh%20and%20ACM.md)
 	- TODO [P2426 删数](https://www.luogu.com.cn/problem/P2426) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2426%20%E5%88%A0%E6%95%B0.md)
 	- TODO [P1020 导弹拦截](https://www.luogu.com.cn/problem/P1020) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1020%20%E5%AF%BC%E5%BC%B9%E6%8B%A6%E6%88%AA.md)
+	- [P4933 大师](https://www.luogu.com.cn/problem/P4933) | [解释]()
 - 背包
     - [P1510 精卫填海](https://www.luogu.com.cn/problem/P1510) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1510%20%E7%B2%BE%E5%8D%AB%E5%A1%AB%E6%B5%B7.md)
     - TODO [P1077 摆花](https://www.luogu.com.cn/problem/P1077) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1077%20%E6%91%86%E8%8A%B1.md)
+    - TODO [P2851 The Fewest Coins G](https://www.luogu.com.cn/problem/P2851) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2851%20The%20Fewest%20Coins%20G.md)
+    - TODO [P4141 消失之物](https://www.luogu.com.cn/problem/P4141) | [解释]()
+    - [P5662 纪念品](https://www.luogu.com.cn/problem/P5662) | [解释]()
 - 矩阵型
 	- [CF2B The least round way](https://www.luogu.com.cn/problem/CF2B) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/CF2B%20The%20least%20round%20way.md)
 - 倒推
- 	- [P1280 尼克的任务](https://www.luogu.com.cn/problem/P1280) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1280%20%E5%B0%BC%E5%85%8B%E7%9A%84%E4%BB%BB%E5%8A%A1.md) 
+ 	- [P1280 尼克的任务](https://www.luogu.com.cn/problem/P1280) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1280%20%E5%B0%BC%E5%85%8B%E7%9A%84%E4%BB%BB%E5%8A%A1.md)
 - 前缀和优化
     - [P2513 逆序对数列](https://www.luogu.com.cn/problem/P2513) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2513%20%E9%80%86%E5%BA%8F%E5%AF%B9%E6%95%B0%E5%88%97.md)
     - [P1107 雷涛的小猫](https://www.luogu.com.cn/problem/P1107) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1107%20%E9%9B%B7%E6%B6%9B%E7%9A%84%E5%B0%8F%E7%8C%AB.md)
@@ -25,3 +29,7 @@
 - 期望
 	- [P6154 游走](https://www.luogu.com.cn/problem/P6154) | [解释](https://github.com/zhuoshen617/Algo/blob/master/math/P6154%20%E6%B8%B8%E8%B5%B0.md)
 
+
+### Graph
+- Top Sort
+	- [1385E Directing Edges](https://codeforces.com/contest/1385/problem/E) | [解释](https://github.com/zhuoshen617/Algo/blob/master/Graph/1385E%20Directing%20Edges.md)
