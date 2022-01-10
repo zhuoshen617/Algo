@@ -13,7 +13,7 @@
     - [P1510 精卫填海](https://www.luogu.com.cn/problem/P1510) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1510%20%E7%B2%BE%E5%8D%AB%E5%A1%AB%E6%B5%B7.md)
     - TODO [P1077 摆花](https://www.luogu.com.cn/problem/P1077) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1077%20%E6%91%86%E8%8A%B1.md)
     - TODO [P2851 The Fewest Coins G](https://www.luogu.com.cn/problem/P2851) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2851%20The%20Fewest%20Coins%20G.md)
-    - TODO [P4141 消失之物](https://www.luogu.com.cn/problem/P4141) | [解释]()
+    - TODO [P4141 消失之物](https://www.luogu.com.cn/problem/P4141) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P4141%20%E6%B6%88%E5%A4%B1%E4%B9%8B%E7%89%A9.md)
     - [P5662 纪念品](https://www.luogu.com.cn/problem/P5662) | [解释]()
 - 矩阵型
 	- [CF2B The least round way](https://www.luogu.com.cn/problem/CF2B) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/CF2B%20The%20least%20round%20way.md)
