@@ -17,6 +17,8 @@
     - [P5662 纪念品](https://www.luogu.com.cn/problem/P5662) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P5662%20%E7%BA%AA%E5%BF%B5%E5%93%81.md)
 - 矩阵型
 	- [CF2B The least round way](https://www.luogu.com.cn/problem/CF2B) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/CF2B%20The%20least%20round%20way.md)
+- 树形
+	- [P2015 二叉苹果树](https://www.luogu.com.cn/problem/P2015) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2015%20%E4%BA%8C%E5%8F%89%E8%8B%B9%E6%9E%9C%E6%A0%91.md)
 - 倒推
  	- [P1280 尼克的任务](https://www.luogu.com.cn/problem/P1280) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1280%20%E5%B0%BC%E5%85%8B%E7%9A%84%E4%BB%BB%E5%8A%A1.md)
 - 前缀和优化
