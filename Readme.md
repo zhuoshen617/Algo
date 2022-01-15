@@ -8,7 +8,7 @@
 	- [414B Mashmokh and ACM](https://codeforces.com/problemset/problem/414/B) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/414B%20Mashmokh%20and%20ACM.md)
 	- TODO [P2426 删数](https://www.luogu.com.cn/problem/P2426) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2426%20%E5%88%A0%E6%95%B0.md)
 	- TODO [P1020 导弹拦截](https://www.luogu.com.cn/problem/P1020) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1020%20%E5%AF%BC%E5%BC%B9%E6%8B%A6%E6%88%AA.md)
-	- [P4933 大师](https://www.luogu.com.cn/problem/P4933) | [解释]()
+	- [P4933 大师](https://www.luogu.com.cn/problem/P4933) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P4933%20%E5%A4%A7%E5%B8%88.md)
 - 背包
     - [P1510 精卫填海](https://www.luogu.com.cn/problem/P1510) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1510%20%E7%B2%BE%E5%8D%AB%E5%A1%AB%E6%B5%B7.md)
     - TODO [P1077 摆花](https://www.luogu.com.cn/problem/P1077) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1077%20%E6%91%86%E8%8A%B1.md)
@@ -25,6 +25,11 @@
 - 前缀和优化
     - [P2513 逆序对数列](https://www.luogu.com.cn/problem/P2513) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P2513%20%E9%80%86%E5%BA%8F%E5%AF%B9%E6%95%B0%E5%88%97.md)
     - [P1107 雷涛的小猫](https://www.luogu.com.cn/problem/P1107) | [解释](https://github.com/zhuoshen617/Algo/blob/master/dp/P1107%20%E9%9B%B7%E6%B6%9B%E7%9A%84%E5%B0%8F%E7%8C%AB.md)
+
+
+### 贪心
+- 求一种顺序
+    - [魔法](https://www.luogu.com.cn/problem/P3619) | [解释]()
 
 ### Math
 - 概率
