@@ -30,7 +30,7 @@
 ### 贪心
 - 求一种顺序
     - [魔法](https://www.luogu.com.cn/problem/P3619) | [解释](https://github.com/zhuoshen617/Algo/blob/master/greedy/%E9%AD%94%E6%B3%95.md)
-    - [田忌赛马](https://www.luogu.com.cn/problem/P1650) | [解释]()
+    - [田忌赛马](https://www.luogu.com.cn/problem/P1650) | [解释](https://github.com/zhuoshen617/Algo/blob/master/greedy/%E7%94%B0%E5%BF%8C%E8%B5%9B%E9%A9%AC.md)
 
 ### Math
 - 概率
